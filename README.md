@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Sonoxo fork status — upstream project**
+>
+> This repository is a Sonoxo-owned fork used for compatibility and integration experiments. The original project is maintained by [Mintplex Labs and AnythingLLM contributors](https://github.com/Mintplex-Labs/anything-llm); its branding, documentation, licenses, releases, and support channels remain upstream. Sonoxo does **not** claim authorship, official affiliation, endorsement, or that this fork is currently synchronized, tested, or production-ready. Check the [canonical repository](https://github.com/Mintplex-Labs/anything-llm) before installing or contributing.
+
+---
+
 <a name="readme-top"></a>
 
 > [!NOTE]
